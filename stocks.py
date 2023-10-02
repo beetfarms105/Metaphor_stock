@@ -116,5 +116,5 @@ elif option == "Specific Stock Forecast":
         st.write(f"{completion.choices[0].message.content}")
 
 
-st.write("Application powered by OpenAI, Metaphor, and Streamlit")
+st.footer("Application powered by OpenAI, Metaphor, and Streamlit")
     
