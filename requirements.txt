@@ -1,0 +1,3 @@
+metaphor_python==0.1.16
+openai==0.28.0
+streamlit==1.27.0
